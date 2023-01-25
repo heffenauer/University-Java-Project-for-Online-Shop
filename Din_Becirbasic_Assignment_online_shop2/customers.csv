@@ -1,0 +1,16 @@
+name,email,credit,favorite_category
+Alice Smith,alice@example.com,0,sports equipment
+Bob Johnson,bob@example.com,50,books
+Charlie Williams,charlie@example.com,100,electronics
+Robert Bobert,rob@example.com,320,furniture
+Rich Wealthy,rich@example.com,999999,vanity
+Alice Smithson,alice2@example.com,4,books
+Bob Johnsonson,b@example.com,5,electronics
+Charlie Williamsson,none2,124,electronics
+Robert Bobertson,none3,6789,electronics
+Rich Wealthyson,none4,345,electronics
+Alice Smithman,none5,98074,electronics
+Bob Johnsonman,none6,325,electronics
+Charlie Williamsman,none7,754,electronics
+Robert Bobertman,none8,354,electronics
+Rich Wealthyman,none9,21,electronics
